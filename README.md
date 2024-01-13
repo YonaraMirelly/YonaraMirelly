@@ -1,4 +1,4 @@
-### oioi! me chama de nara ;)
+### Olá! Sou Yonara! ^^
 ##
 
 - 🔭 I’m currently studant on ... Information Systems
