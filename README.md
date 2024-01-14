@@ -38,4 +38,4 @@
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=YonaraMirelly&repo=YonaraMirelly&theme=react)](https://github.com/YonaraMirelly/YonaraMirelly)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
