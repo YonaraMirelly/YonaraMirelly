@@ -29,7 +29,7 @@
     <a href = "mailto: yonaanara@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/yonara">
+    <a href = "https://www.linkedin.com/in/yonara-mirelly">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/yonara_0">
