@@ -15,14 +15,14 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="mario.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Best Technologies <3</h1>
      
 [![My Skills](https://skillicons.dev/icons?i=js,py,vscode,github)](https://skillicons.dev)
 
    </div>
       
 
-<h1 align="center">Redes Sociais</h1>
+<h1 align="center">Social Media</h1>
     <a href = "mailto: yonaanara@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
