@@ -1,12 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Sou+Yonara+😼;Atualmente,+moro+no+Recife,+PE;E+sou+graduanda+em+Sistemas+de+informação+(UFRPE);Seja+muito+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Yonara+😼;I'm+from+Recife,+Brazil;I+study+Information+Systems+(UFRPE);Be+welcome!+:%29)](https://git.io/typing-svg)
 
-##
-
-- 🔭 I’m currently studant on ... Information Systems
-- 🌱 I’m currently learning Programing
-- ⚡ Fun fact: I play guitar
 ##
 <div>
   <a href="https://github.com/YonaraMirelly">
