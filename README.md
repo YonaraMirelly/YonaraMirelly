@@ -17,7 +17,7 @@
     <img align="left" height="250" alt="coding-time" src="mario.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
      
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,r,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,vscode,github)](https://skillicons.dev)
 
    </div>
       
